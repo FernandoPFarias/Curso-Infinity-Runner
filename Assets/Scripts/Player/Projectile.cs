@@ -8,6 +8,8 @@ public class Projectile : MonoBehaviour
 
     public float BulletSpeed;
 
+    public int damage;
+
 
     // Start is called before the first frame update
     void Start()

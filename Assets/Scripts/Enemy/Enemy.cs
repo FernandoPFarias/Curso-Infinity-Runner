@@ -7,8 +7,10 @@ public class Enemy : MonoBehaviour
     public int health;
     public int damage;
 
+   
 
-    public virtual void ApplyDamege(int dmg)
+
+    public virtual void ApplyDamage(int dmg)
     {
         health -= dmg;
 
@@ -24,7 +26,8 @@ public class Enemy : MonoBehaviour
     {
         if(collision.CompareTag("Bullet"))
         {
-            ApplyDamege(2);
+            int dmg = collision.GetComponent<Projectile>().damage;
+            ApplyDamage(dmg);
         }
     }
 
