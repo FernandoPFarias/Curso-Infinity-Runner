@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6378098815593288171}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FinalPointB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6523145230129931061}
   - component: {fileID: 5011319536236639797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spawn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -231,7 +231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1803508890187959119}
   - component: {fileID: 1216862433400038419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platform B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -279,7 +279,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7423960442077038860}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -310,7 +310,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7162509455110096057}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -341,7 +341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2764659500412073821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Point 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

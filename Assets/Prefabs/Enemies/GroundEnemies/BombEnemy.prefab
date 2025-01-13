@@ -47,6 +47,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbebdea2461646f4d9db884ebaa2c959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 10
+  damage: 0
   bombPrefab: {fileID: 914800919527155772, guid: 60c3b6e347d7f934fbce0c9f69743794, type: 3}
   firePoint: {fileID: 6084169105685987316}
   throwTime: 2

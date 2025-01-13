@@ -48,6 +48,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BulletSpeed: 20
+  damage: 2
+  ExplosionEffect: {fileID: 7352710480348187738, guid: db10594ea13d66943b7a2147bf075ad0, type: 3}
 --- !u!212 &507242828042200092
 SpriteRenderer:
   m_ObjectHideFlags: 0
